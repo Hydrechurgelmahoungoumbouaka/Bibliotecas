@@ -1,0 +1,15 @@
+==16171== Memcheck, a memory error detector
+==16171== Copyright (C) 2002-2017, and GNU GPL'd, by Julian Seward et al.
+==16171== Using Valgrind-3.18.1 and LibVEX; rerun with -h for copyright info
+==16171== Command: Resultados/Hydrech/esfera_utils/prog Resultados/Hydrech/esfera_utils/Casos/4
+==16171== Parent PID: 16170
+==16171== 
+==16171== 
+==16171== HEAP SUMMARY:
+==16171==     in use at exit: 0 bytes in 0 blocks
+==16171==   total heap usage: 2 allocs, 2 frees, 8,192 bytes allocated
+==16171== 
+==16171== All heap blocks were freed -- no leaks are possible
+==16171== 
+==16171== For lists of detected and suppressed errors, rerun with: -s
+==16171== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 0 from 0)

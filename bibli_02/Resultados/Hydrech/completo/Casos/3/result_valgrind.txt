@@ -1,0 +1,6 @@
+==29201== Memcheck, a memory error detector
+==29201== Copyright (C) 2002-2017, and GNU GPL'd, by Julian Seward et al.
+==29201== Using Valgrind-3.18.1 and LibVEX; rerun with -h for copyright info
+==29201== Command: Resultados/Hydrech/completo/prog Resultados/Hydrech/completo/Casos/3
+==29201== Parent PID: 29200
+==29201== 

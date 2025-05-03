@@ -1,0 +1,6 @@
+==29405== Memcheck, a memory error detector
+==29405== Copyright (C) 2002-2017, and GNU GPL'd, by Julian Seward et al.
+==29405== Using Valgrind-3.18.1 and LibVEX; rerun with -h for copyright info
+==29405== Command: Resultados/Hydrech/matrix_utils/prog Resultados/Hydrech/matrix_utils/Casos/3
+==29405== Parent PID: 29404
+==29405== 
